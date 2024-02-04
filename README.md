@@ -20,12 +20,9 @@ I'm a passionate Software Engineer with a knack for building scalable web applic
 
 ## 🌟 Projects
 ### Translator App (https://github.com/prekshajain1101/Translator-App)
-Brief description of Project 1 - what it does, technologies used.
+Translator app with javascript using a translate api and this code is also responsive.
 
-### [Project Name 2](GitHub link to project)
-Brief description of Project 2 - what it does, technologies used.
 
-<!-- Repeat this block for more projects -->
 
 ## 📫 How to Reach Me
 - LinkedIn: https://www.linkedin.com/in/preksha-jain-5859b9246/
