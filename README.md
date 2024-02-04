@@ -19,7 +19,7 @@ I'm a passionate Software Engineer with a knack for building scalable web applic
 <!-- Customize this section based on your skills -->
 
 ## 🌟 Projects
-### Translator App (https://github.com/prekshajain1101/Translator-App)
+### Translator App (https://prekshajain1101.github.io/Translator-App/)
 Translator app with javascript using a translate api and this code is also responsive.
 
 
