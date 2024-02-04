@@ -11,11 +11,11 @@ I'm a passionate Software Engineer with a knack for building scalable web applic
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 <!-- Add or remove badges as per your skills -->
 
-* **Languages:** Python, JavaScript, TypeScript, Go
+* **Languages:** Python, JavaScript, Java
 * **Frameworks/Libraries:** React, Node.js, Django
-* **Databases:** MySQL, MongoDB, PostgreSQL
-* **Tools:** Docker, Git, Jenkins, Kubernetes
-* **Cloud:** AWS, GCP, Azure
+* **Databases:** MySQL, MongoDB, PostgreSQL, PHP
+* **Tools:** Git
+* **Cloud:** AWS, Azure, FireBase
 <!-- Customize this section based on your skills -->
 
 ## 🌟 Projects
@@ -29,7 +29,7 @@ Brief description of Project 2 - what it does, technologies used.
 
 ## 📫 How to Reach Me
 - LinkedIn: [Your LinkedIn](Your LinkedIn URL)
-- Email: [Your Email](mailto:your.email@example.com)
+- Email: prekshajain.0311@gmail.com(mailto:prekshajain.0311@gmail.com)
 - Twitter: [Your Twitter](Your Twitter URL)
 
 ## 💼 Experience
