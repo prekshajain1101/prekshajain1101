@@ -19,7 +19,7 @@ I'm a passionate Software Engineer with a knack for building scalable web applic
 <!-- Customize this section based on your skills -->
 
 ## 🌟 Projects
-### [Project Name 1](GitHub link to project)
+### Translator App (GitHub link to project)
 Brief description of Project 1 - what it does, technologies used.
 
 ### [Project Name 2](GitHub link to project)
