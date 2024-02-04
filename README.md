@@ -30,14 +30,6 @@ Brief description of Project 2 - what it does, technologies used.
 ## 📫 How to Reach Me
 - LinkedIn: https://www.linkedin.com/in/preksha-jain-5859b9246/
 - Email: prekshajain.0311@gmail.com
-- Twitter: [Your Twitter](Your Twitter URL)
-
-## 💼 Experience
-### [Your Job Title] - [Company Name] (Month Year - Month Year)
-- Brief description of your responsibilities, achievements, and technologies you worked with.
-
-### [Your Previous Job Title] - [Company Name] (Month Year - Month Year)
-- Brief description of your responsibilities, achievements, and technologies you worked with.
 
 
 
