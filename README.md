@@ -1,9 +1,9 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Preksha Jain! 👋
 
 ## 🚀 About Me
-I'm a passionate Software Engineer with a knack for building scalable web applications and working on cutting-edge technologies. I specialize in [Your Specialization] and have [X years] of experience in the tech industry, constantly learning and adapting to new challenges.
+I'm a passionate Software Engineer with a knack for building scalable web applications and working on cutting-edge technologies. I specialize in Web Development and have 2 yrs of experience in the tech industry, constantly learning and adapting to new challenges.
 
-🎓 I graduated from [Your University] with a degree in [Your Degree].
+🎓 I am currently pursuing my B.Tech Degree in Computer Science Engineering from Noida Institute of Engineering and technology.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
